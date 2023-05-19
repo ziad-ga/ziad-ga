@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **interesting projects, be on the lookout!**
 
-- 🌱 I’m currently learning **Reinforcement Learning, Unity Engine.**
+- 🌱 I’m currently learning **Reinforcement Learning, Unity Engine, and Data Science.**
 
 - 📫 If you want to collaborate, or want assistance with anything, feel free to contact me through email or LinkedIn. **ziadgaseralgendi@gmail.com**
 
